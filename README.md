@@ -1,2 +1,2 @@
-# AI-Tetris
-AI that plays tetris. 
+# Machine beats
+Showcase of games beat by AI algorithms.
